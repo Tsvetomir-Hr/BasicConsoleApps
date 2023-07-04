@@ -1,2 +1,2 @@
 # BasicConsoleApps
-Super basic console applications
+Basic console applications
